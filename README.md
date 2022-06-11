@@ -1,4 +1,4 @@
 # aula_git
-**Incrível**
-Repositório para a aula de github
+**Lula maromba**
+![Lula maromba](https://tenor.com/view/lula-maromba-gif-20684990)
 !!!
